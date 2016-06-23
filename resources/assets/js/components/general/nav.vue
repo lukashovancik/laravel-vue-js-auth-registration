@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Registrácia a authentifikácia</a>
+      <a class="navbar-brand" v-link="{ path: '/prihlasit'}">Registrácia a authentifikácia</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
