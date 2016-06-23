@@ -1,17 +1,17 @@
 # Laravel VueJs Auth and Registration
 
-Sk
+# Sk 
 Táto aplikácia slúži na registráciu a autentifikácia používateľa. 
 
-Eng
+# Eng
 This applications provide registration and authentication of users.
 
 # Dependencies
 
-LARAVEL - https://laravel.com/
-JWT TOKEN - https://github.com/tymondesigns/jwt-auth
-VUE JS - https://vuejs.org/
-VUE RESOURCES - https://github.com/vuejs/vue-resource
-VUE ROUTES - https://github.com/vuejs/vue-router
-VUEX - https://github.com/vuejs/vuex
+LARAVEL - https://laravel.com/ <br>
+JWT TOKEN - https://github.com/tymondesigns/jwt-auth <br>
+VUE JS - https://vuejs.org/ <br>
+VUE RESOURCES - https://github.com/vuejs/vue-resource <br>
+VUE ROUTES - https://github.com/vuejs/vue-router <br>
+VUEX - https://github.com/vuejs/vuex <br>
 
