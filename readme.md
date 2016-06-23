@@ -3,7 +3,7 @@
 # Sk 
 Táto aplikácia slúži na registráciu a autentifikácia používateľa. 
 
-# Eng
+# En
 This applications provide registration and authentication of users.
 
 # Dependencies
