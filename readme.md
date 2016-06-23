@@ -4,7 +4,7 @@
 Táto aplikácia slúži na registráciu a autentifikácia používateľa. 
 
 # En
-This applications provide registration and authentication of users.
+This application provide registration and authentication of users.
 
 # Dependencies
 
