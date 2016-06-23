@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/lukashovnacik/laravel-vue-js-auth-registration",
+  "authors": [
+    "lukassb <lukassb82@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

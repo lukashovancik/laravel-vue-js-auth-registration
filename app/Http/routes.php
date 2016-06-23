@@ -12,5 +12,14 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('app');
+});
+
+
+Route::group(['middleware' => ['api'],'prefix'=> 'api/v1'], function () {
+    Route::post('authenticate','AuthenticateController@login');
+    Route::post('register','AuthenticateController@register');
+    Route::get('checkUserName','UserController@checkUserName');
+    Route::get('checkEmail','UserController@checkEmail');
+    Route::get('auth-user','UserController@getUser');
 });
